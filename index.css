@@ -1,0 +1,36 @@
+h1 {
+  color: white;
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 4em;
+  padding-top: 3%;
+}
+.square {
+  background-color: #E5E5E5;
+  opacity: 0.8;
+  border-radius: 10px;
+  width: 40%;
+  margin: 0 auto;
+  margin-top: 7%;
+  padding-top: 3%;
+  color: black;
+}
+#quoteDisplay {
+  color: black;
+  font-family: 'Della Respira', serif;
+  font-size: 1.2em;
+  padding-bottom: 3%;
+  padding-left: 7%;
+  padding-right: 7%
+}
+button {
+  background-color: white;
+  font-family: 'Della Respira', serif;
+  font-size: 1.2em;
+  margin-bottom: 3%;
+  margin-top: 3%;
+}
+.footer {
+  color: #E5E5E5;
+  margin-top: 2%;
+  font-size: 1em;
+}
